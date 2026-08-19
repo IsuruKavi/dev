@@ -26,10 +26,10 @@ export const Hero = () => {
               </h1>
               <div></div>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                I enjoy building everything from simple business websites to
-                fully interactive web applications. If you're looking to
-                establish your online presence or hire a developer, feel free to
-                reach out.
+                I build modern web applications and digital solutions while
+                expanding into cloud infrastructure and DevOps. From developing
+                applications to deploying and managing them in the cloud, I
+                enjoy turning ideas into reliable, practical solutions.
               </p>
             </div>
 

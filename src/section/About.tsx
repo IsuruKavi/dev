@@ -14,21 +14,28 @@ export const About = () => {
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200 md:flex w-full justify-between ">
               <div className="space-y-4 md:w-1/2 w-full">
                 <p>
-                  I’m a software engineer with 2+ years of experience developing
-                  digital solutions. I began with web and game development,
-                  which helped me build strong fundamentals.
+                  I’m a software engineer with 2+ years of professional
+                  experience building web and mobile applications. My background
+                  in software development has given me a strong foundation in
+                  application architecture, APIs, databases, and modern
+                  development workflows.
                 </p>
+
                 <p>
-                  I specialize in React, Next.js, Node.js, and Express, creating
-                  everything from sleek websites to full-scale SaaS platforms.
-                  Currently, I’m learning Java and Spring Boot to deepen my
-                  backend development skills.
+                  While completing my BSc (Hons) in Computer Networks, I
+                  developed a stronger interest in cloud infrastructure,
+                  networking, deployment, and automation. I’m now transitioning
+                  my career focus toward Cloud and DevOps, building hands-on
+                  experience with AWS, Linux, Docker, Kubernetes, CI/CD, and Bash.
                 </p>
+
                 <p className="text-white/80">
-                  I enjoy writing tech blogs about what I learn in my day-to-day
-                  journey, with the goal of making things easier for others.
-                  Feel free to explore my blog—an interactive space where I
-                  share my knowledge and experiences.
+                  I continue to use my software engineering experience alongside
+                  my growing cloud and infrastructure skills, and I’m currently
+                  open to Intern, Trainee, Associate, and Junior opportunities
+                  in Cloud, DevOps, and related infrastructure roles. I also
+                  share what I learn through my tech blog to help others
+                  understand practical development and cloud concepts.
                 </p>
                 <a
                   className=" gap-2 items-center underline decoration-primary hover:decoration-2 md:block md:flex hidden"
@@ -67,17 +74,17 @@ export const About = () => {
                       <p className="text-sm opacity-70">2020 - 2024</p>
                     </div>
                   </div>
-                   <a
-                  className=" gap-2 items-center underline decoration-primary hover:decoration-2 md:hidden flex"
-                  href="https://medium.com/@isurukavindalakshan863"
-                  target="_blank"
-                >
-                  <span className="w-3 h-3 bg-primary rounded-full animate-pulse" />
-                  <span className=" italic text-2xl font-semibold text-white">
-                    Check out my blog
-                  </span>
-                  <ArrowUpRight className="w-6 h-6" />
-                </a>
+                  <a
+                    className=" gap-2 items-center underline decoration-primary hover:decoration-2 md:hidden flex"
+                    href="https://medium.com/@isurukavindalakshan863"
+                    target="_blank"
+                  >
+                    <span className="w-3 h-3 bg-primary rounded-full animate-pulse" />
+                    <span className=" italic text-2xl font-semibold text-white">
+                      Check out my blog
+                    </span>
+                    <ArrowUpRight className="w-6 h-6" />
+                  </a>
                 </div>
                 {/* <div className="relative flex justify-center mt-6 ">
               <div
