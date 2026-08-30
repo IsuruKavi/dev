@@ -1,6 +1,6 @@
 const experiences = [
   {
-    period: "June 2024 — Jan 2025",
+    period: "June 2024 — Jan 2026",
     role: "Assosiate Software Engineer",
     company: "Skalafy(Pvt) Ltd.",
     description:
